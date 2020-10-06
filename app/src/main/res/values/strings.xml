@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Fragmentos</string>
+    <string name="first_movie">Train to Busan 2</string>
+    <string name="second_movie">#Vivo</string>
+    <string name="description_first_movie">Cuatro años después de la epidemia zombi, Corea sigue infestada de monstruos y el soldado Jung-seok, que escapó del país, se ve obligado a regresar a Seúl para recuperar un objeto valioso. Allí descubre que hay, todavía, personas sanas en la ciudad.</string>
+    <string name="description_second_movie">#Vivo, en inglés #Alive, es una película de horror zombi surcoreana de 2020, dirigida por Cho Il-hyung y protagonizada por Yoo Ah-in y Park Shin-hye.​Se basa en la película estadounidense de 2019, Alone de Matt Naylor, quien co-adaptó su guion con Cho.</string>
+    <string name="select_movie">Seleccione una pelicula</string>
+    <string name="vote_movie">Emitir Voto</string>
+    <string name="go_vote">Votar</string>
+    <string name="cancel_vote">Cancelar</string>
+    <string name="exception_message">Es necesario implementar la interfaz</string>
+    <string name="result_title">Resultados</string>
+    <string name="ok">OK</string>
+    <string name="two_points">": "</string>
+    <string name="you_select">"Usted ha votado por: "</string>
+    <string name="alert_message">Por favor debe seleccionar una pelicula</string>
+    <string name="alert_title">Alerta</string>
+    <string name="winner">"Va Ganando "</string>
+    <string name="equals">Ambas peliculas tienen la misma cantidad de votos</string>
+    <string name="with">" con "</string>
+    <string name="votes">" votos"</string>
+</resources>
